@@ -6,7 +6,7 @@ class Persona():
     #------------------------
     # CONSTRUCTOR
     #------------------------
-    def __init__(self, aNombre, aApellido, aDni, aEdad):
+    def __init__(self, aNombre, aApellido, aEdad):
         self._edad = None
         self._apellido = None
         self._nombre = None
